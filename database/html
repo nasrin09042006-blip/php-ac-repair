@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>inline style</title>
+   <style>
+    p{
+        font-family: 'Times New Roman', Times, serif;
+        font-weight: 200;
+        font-size: medium;
+    }
+   </style>
+    </head>
+    <body>
+        <h1 style="color:red;">inline style</h1>
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure dolores nulla consequuntur saepe, facilis molestias nemo in deleniti officia quisquam, id tempore cupiditate velit sed autem quam vel quibusdam quis?</p>
+    </body>
+</html>
